@@ -2,7 +2,7 @@
 - 👀 I’m interested in learnign new stuffs
 - 🌱 I’m currently learning (HTML.CSS,JS and Python)
 - 💞️ I’m looking to collaborate on a Python Project (Neurodux)
-- 📫 How to reach me on telegram @SmartGrenedier
+- 📫 How to reach me on telegram @Smartgrenedierrr
 
 <!---
 Conduct-Project/Conduct-Project is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
